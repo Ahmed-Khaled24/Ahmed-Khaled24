@@ -260,14 +260,14 @@
     </a>
 </p>
 
-<p >    
+<p  style="display: flex; justify-content: center; align-items: center;">    
 	<img
 		src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-khaled24&"
 		alt="ahmed-khaled24"
 	/>
 </p>
 
-<p>    
+<p  style="display: flex; justify-content: center; align-items: center;">    
 	<img
 		style="margin: 0 auto;"
 		src="https://github-readme-stats.vercel.app/api?username=ahmed-khaled24&show_icons=true&locale=en"
@@ -275,7 +275,7 @@
 	/>
 </p>
 
-<p>
+<p style="display: flex; justify-content: center; align-items: center;">
 	<img
 		style="margin: 0 auto;"
 		src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-khaled24&show_icons=true&locale=en&layout=compact"
