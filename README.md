@@ -1,15 +1,17 @@
-<h1 align="center">Hi 👋, I'm Ahmed Khaled</h1>
-<h3 align="center">A Full-stack Engineer</h3>
-
-<div align="center">
+<h1 align="center">👋 Hi, I'm Ahmed Khaled</h1>
+<div align="left">
 	<img
 		src="https://komarev.com/ghpvc/?username=ahmed-khaled24&label=Profile%20views&color=0e75b6&style=flat"
 		alt="profile views"
 	/>
 </div>
+<p>
+I'm a full-stack engineer with a passion for building efficient and scalable software solutions. I have a strong background in developing web applications and systems, focusing on creating impactful and reliable products. With a deep interest in both engineering and research, I enjoy solving complex problems and continuously learning new concepts.
+</p>
+
 
  ## Connect with me:
-<div align="center">
+<div align="left">
 	<a href="mailto:ahmedkhaled.m24@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
@@ -22,7 +24,7 @@
 </div>
 
 ## Languages and Tools:
-<div align="center" >
+<div align="left" >
 	<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 	<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -51,15 +53,18 @@
 	<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmed-khaled24&theme=github-compact" />
 </div>
 <div align="center">
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmed-khaled24&theme=dark" />
+</div>
+<div align="center">
 	<img
 		src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-khaled24&theme=dark&hide_border=false"
 		alt="ahmed-khaled24"
 	/>
+</div>
+<div  align="center">
 	<img
 		src="https://github-readme-stats.vercel.app/api?username=ahmed-khaled24&show_icons=true&locale=en&theme=dark&hide_border=false"
 		alt="ahmed-khaled24"
 	/>
 </div>
-<div align="center">
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmed-khaled24&theme=dark" />
-</div>
+
